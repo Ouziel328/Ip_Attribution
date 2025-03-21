@@ -78,7 +78,7 @@ Voici quelques améliorations que vous pourriez envisager pour ce projet :
 
 ## Contributeurs
 
-- **Ouziel Olou** - Développeur et créateur du projet.
+- **Ouziel Olou** - Développeur et Concepteur du projet informatique.
 
 ## Licence
 
