@@ -64,7 +64,7 @@ Ce projet a été conçu dans le but d'explorer l'utilisation de **Tkinter** pou
 
 ### Détails de l'implémentation :
 
-- La validation de l'adresse IP assure que chaque octet est compris entre 0 et 255, et que les plages réservées comme 0.x.x.x et 127.x.x.x ne sont pas utilisées.
+- La validation de l'adresse IP assure que chaque octet est compris entre 0 et 255, et que les plages réservées comme 0.x.x.x et 127.x.x.x, ainsi que de 224.x.x.x à 255.x.x.x ne sont pas utilisées.
 - Lorsqu'une adresse IP complète est entrée, l'application affiche la classe de l'adresse (A, B, C, D ou E).
 
 ## Améliorations possibles
