@@ -42,7 +42,7 @@ Ce projet est une application permettant de gérer l'attribution d'adresses IP. 
     Une fois que vous avez installé les dépendances, lancez simplement le script `main.py` :
 
     ```bash
-    python main.py
+    python IP_assignement.py
     ```
 
 2. **Interface Utilisateur :**
@@ -80,10 +80,6 @@ Voici quelques améliorations que vous pourriez envisager pour ce projet :
 
 - **Ouziel Olou** - Développeur et Concepteur du projet informatique.
 
-## Licence
-
-Ce projet est sous la licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
 ## Contact
 
-Pour toute question ou suggestion, n'hésitez pas à me contacter via LinkedIn : [Mon profil LinkedIn](https://www.linkedin.com/in/ton-profile).
+Pour toute question ou suggestion, n'hésitez pas à me contacter via LinkedIn : [Ouziel OLOU]([https://www.linkedin.com/in/ton-profile](https://www.linkedin.com/in/ouziel-olou-a41727286/)).
